@@ -1,8 +1,3 @@
-"""
-Pydantic Models for AI Resume Matcher & Interview Preparation Engine
-Ensures 100% schema-compliant JSON responses from Google Gemini 1.5 Flash.
-"""
-
 from typing import List, Optional
 from pydantic import BaseModel, Field
 
